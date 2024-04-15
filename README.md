@@ -1,1 +1,3 @@
-# CS184_Jupiter_project
+# Final Project
+
+Spring 2024
